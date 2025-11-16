@@ -1,7 +1,6 @@
 # github-final-project
 Module 3 Peer-Graded Assignment for IBM Full-Stack JavaScript Developer Course
 
-TASK 3:
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 Input:
